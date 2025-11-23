@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#main{
+	height:400px;
+	width:350px;
+	padding:20px;
+	background-color:lightgray;
+	box-shadow:0 2px 2px 2px lightgray; 
+	text-align:center;
+}
+.button{
+	width:100px;
+	height:40px;
+	background-color:red;
+	color:white;
+	font-size:15px;
+	border:none;
+	border-radius:10px;
+}
